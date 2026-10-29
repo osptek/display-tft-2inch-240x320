@@ -1,0 +1,10 @@
+id: YDP200B006-V1
+category: displays
+size: "2"
+panel: tft
+resolution: 240x320
+interface: [spi]
+driver: ST7789V2
+touch: null
+outline: 34.6 x 47.8 x 1.97 mm
+active_area: 30.60 x 40.80 mm
